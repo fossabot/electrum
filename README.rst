@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyashbhutwala%2Felectrum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyashbhutwala%2Felectrum?ref=badge_shield)
+
 Electrum - Lightweight Bitcoin client
 =====================================
 
@@ -113,3 +115,6 @@ Android
 -------
 
 See `electrum/gui/kivy/Readme.md` file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyashbhutwala%2Felectrum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyashbhutwala%2Felectrum?ref=badge_large)
